@@ -56,7 +56,7 @@ def plot_Q2():
     plt.show()
 
 #Question 1 U_inf et Re
-rho = 1.125
+rho = 1.225
 nu = 15.6e-6
 D = 0.05
 b = 0.5
